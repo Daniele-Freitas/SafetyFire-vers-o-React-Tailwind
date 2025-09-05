@@ -49,7 +49,6 @@ function Slider() {
       <Swiper
         modules={[Navigation, Pagination, Autoplay]}
         slidesPerView={1} 
-        loop={true} 
         speed={400} 
         spaceBetween={0} 
         autoplay={{
