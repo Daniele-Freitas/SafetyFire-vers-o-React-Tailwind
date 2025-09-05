@@ -1,0 +1,44 @@
+[
+  {
+    "id": "legalizacao-bombeiros",
+    "href": "/servicos.html",
+    "iconClass": "fa-solid fa-fire-burner",
+    "title": "Legalização junto ao Corpo de Bombeiros",
+    "description": "Sua empresa ou condomínio precisa de aprovação junto ao Corpo de Bombeiros Militar do Estado do Rio de Janeiro (CBMERJ) para estar de acordo com as normas estipuladas pelo novo Código de Segurança contra Incêndio e Pânico (COSCIP n°42/18)."
+  },
+  {
+    "id": "projetos-seguranca",
+    "href": "/servicos.html",
+    "iconClass": "fa-solid fa-helmet-safety",
+    "title": "Projetos de segurança contra incêndio e pânico",
+    "description": "Os projetos são feitos de acordo com as necessidades e riscos do local, dimensionando os equipamentos necessários e antendo às normas técnicas dos órgãos responsáveies e certificadores, tais como ANBT, NFPA, FM, COSCIP, CBMERJ e outras normas vigentes."
+  },
+  {
+    "id": "instalacao-manutencao",
+    "href": "/servicos.html",
+    "iconClass": "fa-solid fa-screwdriver-wrench",
+    "title": "Instalação e manutenção de sistemas de combate a incêndio",
+    "description": "Somos especialistas em serviços de instalação e manutenção de todos os sistemas voltados a prevenção e combate a incêndio."
+  },
+  {
+    "id": "contrato-preventiva",
+    "href": "/servicos.html",
+    "iconClass": "fa-solid fa-file-signature",
+    "title": "Contrato de manutenção preventiva",
+    "description": "Oferecemos um serviço completo de manutenção preventiva, com soluções personalizadas assegurando a operacionalidade dos sistemas de segurança e combate a incêndio."
+  },
+  {
+    "id": "bombeiros-civis",
+    "href": "/servicos.html",
+    "iconClass": "fa-solid fa-file-pen",
+    "title": "Contratos de bombeiros civis e guardiões de piscina",
+    "description": "Contratos de bombeiros civis e guardiões de piscina com profissionais qualificados e competentes cujo objetivo é a segurança de banhistas, prevenção e o combate a incêndio de edificações públicas e privadas."
+  },
+  {
+    "id": "recarga-extintor",
+    "href": "/servicos.html",
+    "iconClass": "fa-solid fa-fire-extinguisher",
+    "title": "Recarga de extintor e reteste de mangueiras",
+    "description": "Realizamos todas as inspeções e testes nos equipamentos de prevenção a incêndio de forma a garantir suas validades e operacionalidades."
+  }
+]
