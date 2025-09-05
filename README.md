@@ -1,5 +1,5 @@
 <div align="center">
-<img src="/public/assets/Logotipo-07.png" alt="Safety Fire Logo" width="400"/>
+<img src="/public/assets/Logotipo-07.png" alt="Safety Fire Logo" width="200"/>
 <br/>
 <h1>
 🔥 Plataforma Safety Fire - Vendas e Serviços
@@ -18,14 +18,9 @@
 
 <br>
 
-🔗 Acesse a demonstração ao vivo <p align="center">
+🔗 Acesse a demonstração ao vivo https://safetyfireservicos.com/ <p align="center">
 <em>Este projeto é a refatoração completa da antiga plataforma da Safety Fire, migrando de um sistema de páginas HTML estáticas para uma <strong>Single Page Application (SPA)</strong> dinâmica e escalável.</em>
 
-</p>
-
-🎬 Demonstração
-<p align="center">
-<img src="./caminho/para/seu/demo.gif" alt="Demonstração do site em ação" width="800">
 </p>
 
 🗺️ Índice
